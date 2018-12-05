@@ -1,0 +1,6 @@
+meeting_proposal.pdf
+*.out
+*.aux
+*.bbl
+*.blg
+*.log
